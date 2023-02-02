@@ -1,0 +1,22 @@
+/* Add all your styles here */
+body{
+  background-color:skyblue;
+  text-align: center;
+}
+.get{
+  text-align: center;
+  background-color:green;
+  border-radius:5px;
+}
+.solid{
+  border-style:1px solid;
+  background-color:black;
+  padding-top:30px;
+  padding-right:56px;
+  padding-left:56px;
+  padding-bottom:30px;
+  color: white;
+  
+  
+  
+}
