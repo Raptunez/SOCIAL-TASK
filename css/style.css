@@ -5,18 +5,52 @@ body{
 }
 .get{
   text-align: center;
-  background-color:green;
+  background-color: purple;
   border-radius:5px;
 }
-.solid{
-  border-style:1px solid;
-  background-color:black;
-  padding-top:30px;
-  padding-right:56px;
-  padding-left:56px;
-  padding-bottom:30px;
-  color: white;
+.s
   
   
   
+}
+.pet{
+  height:50px;
+  with:100px;
+}
+.box{
+  background-color:red;
+  border-radius:2px;
+  height:40px;
+  width:10px;
+}
+.boxes{
+  display:flex;
+}
+
+
+input{
+  text-align: center;
+  width:200px;
+  font-size:10px;
+  border-radius: 10px;
+  border: 1px dashed black;
+  background-color:skyblue;
+}
+.contain{
+  display:flex;
+}
+.pas{
+  font-size:12px;
+}
+fieldset{
+  border:2px solid black;
+}
+.pet{ 
+  height:50px;
+  font-size:30px;
+  background-color: green;
+}
+.pel{
+  padding-left:50px;
+  color:violet;
 }
